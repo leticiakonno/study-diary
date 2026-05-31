@@ -10,7 +10,7 @@ Acredito que compartilhar conhecimento é a melhor forma de fixar o que aprendem
 Minha transição envolve trazer uma forte base analítica (da Engenharia) para a resolução de problemas lógicos em desenvolvimento de software.
 
 ## 🛠️ Tecnologias e Linguagens Abordadas
-Neste repositório, você encontrará códigos e estudos envolvendo, **Front-End**, **Back-End**, **Banco de Dados** e **Infraestrutura e Redes**.
+Neste repositório, você encontrará códigos e estudos envolvendo, **Front-End**, **Back-End**, **Banco de Dados**, **Infraestrutura e Redes**, **Lógica de Programação** e muito mais! 
 
 ## 📂 Como navegar
 O repositório está dividido por áreas de estudo. Sinta-se à vontade para explorar as pastas.
